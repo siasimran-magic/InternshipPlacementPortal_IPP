@@ -263,12 +263,4 @@ The application will be accessible at:
 * **API Documentation (Swagger/OpenAPI)**: `http://localhost:5000/api/docs`
 * **PostgreSQL Database**: `localhost:5432`
 
----
 
-## 🎓 Academic Declaration & Credits
-
-* **Course**: Software Engineering (UE24CS351AA2)
-* **Department**: Department of Computer Science & Engineering
-* **Institution**: PES University, Bengaluru
-* **Author / Student SRN**: `PES1UG24CS453`
-* **Faculty / Subject Anchor**: Department of Computer Science and Engineering, PES University
